@@ -1,0 +1,6 @@
+help
+print
+print c
+print david
+print bc
+exit

@@ -1,0 +1,6 @@
+The number of nodes in this tree is: 12.
+The number of nodes in this tree is: 1.
+The number of nodes in this tree is: 4.
+The number of nodes in this tree is: 1.
+The number of nodes in this tree is: 1.
+This professor does not exist in the tree.

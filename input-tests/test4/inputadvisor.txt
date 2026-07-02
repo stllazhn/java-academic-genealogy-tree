@@ -1,0 +1,6 @@
+advisor a
+advisor e
+advisor friend
+advisor h
+advisor karl
+exit

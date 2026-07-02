@@ -1,0 +1,5 @@
+This professor does not have an advisor in the tree.
+The advisor of this advisee is: a (1445).
+This professor does not exist in the tree.
+The advisor of this advisee is: f (1911).
+The advisor of this advisee is: g (1922).

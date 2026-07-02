@@ -1,0 +1,24 @@
+help
+print [<advisor name>]: print every professor in the academic genealogy of the given professor (default: root) with their degree year
+contains <prof name> : whether this professor is in the PhD tree
+size [<advisor name>] : the number of academic descendants of the given professor (default: root), including themselves
+advisor <advisee name> : the direct advisor of the given professor
+ancestor <prof 1>, <prof 2> : the common ancestor between the two given professors
+lineage <prof name> : the sequence of advisors from the root to the given professor
+exit : exit the program
+a - 1445
+b - 1679
+f - 1911
+g - 1922
+karl - 1989
+h - 1954
+eve - 1987
+damion - 1990
+c - 1889
+d - 1899
+e - 1899
+david - 1988
+c - 1889
+d - 1899
+david - 1988
+This person does not exist in the tree.

@@ -1,0 +1,6 @@
+The lineage is: a (1445)--b (1679)--f (1911).
+The lineage is: a (1445).
+The lineage is: a (1445)--c (1889).
+The lineage is: a (1445)--b (1679)--f (1911)--h (1954).
+The lineage is: a (1445)--b (1679)--eve (1987).
+This professor does not exist in the tree.

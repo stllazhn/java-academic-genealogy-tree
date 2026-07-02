@@ -1,0 +1,6 @@
+contains       a
+contains bc
+contains a a a
+contains david
+contains g
+exit

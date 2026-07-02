@@ -1,0 +1,6 @@
+ancestor karl,damion
+ancestor karl,karl
+ancestor a,david
+ancestor b,bc
+ancestor bee,c
+exit

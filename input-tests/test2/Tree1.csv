@@ -1,0 +1,13 @@
+advisee,year,advisor
+a,1445,
+b,1679,a
+c,1889,a
+d,1899,c
+e,1899,a
+f,1911,b
+g,1922,f
+h,1954,f
+eve,1987,b
+david,1988,a
+karl,1989,g
+damion,1990,b
